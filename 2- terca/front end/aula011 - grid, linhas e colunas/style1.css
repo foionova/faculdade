@@ -1,0 +1,12 @@
+.grid{
+display: grid;
+/* 2 colunas */
+grid-template-columns: 300px 100px; /*ou grid-template-columns:2fr 1fr;*/
+/* 2 linhas */
+grid-template-rows: 300px 100px; /*ou grid-template-rowss:2fr 1fr;*/
+gap: 10px;
+
+}
+
+
+/*fr e fracao, modificando ele voce consegue manipular a proporcao de linhas e colunas*/
