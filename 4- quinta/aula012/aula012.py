@@ -49,4 +49,4 @@ def main():
     preco_mais_barato = min(vinhos.values())
 
     print(f"\nAqui estão algumas informações sobre nossos vinhos:")
-    print()
+    print("sim")
