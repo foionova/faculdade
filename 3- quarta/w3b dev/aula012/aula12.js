@@ -5,3 +5,5 @@
 //porque o JS e fracamente tipado? ex: nao precisa colocar o type de dados, ele "automaticamente" detecta oque ta sendo inserid
 
 //Refatorar:
+
+

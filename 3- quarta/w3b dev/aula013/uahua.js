@@ -1,0 +1,1 @@
+//yarn create vite blogpessoal --temlplate react-ts <-- isso cria um projeto react + vite
